@@ -1,6 +1,5 @@
 # 🥁 Drum Beatz 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/p4P5WVL/drum.png">
   <img width="70%%" src="https://i.ibb.co/p4P5WVL/drum.png">
 </p>
 
