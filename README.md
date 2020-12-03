@@ -7,7 +7,10 @@
 ### Introduction 🙋‍♂️
 ---
 No room in your place for a real drum kit?
- 'Drum Beatz' lets you try the true drumming experience in any music style! A free, fun, user-friendly app! 
+<br/>
+ 'Drum Beatz' lets you try the true drumming experience in any music style! 
+ <br/>
+ A free, fun, user-friendly app! 
 It is perfect for practicing without bugging the neighbours or taking up too much space.
 
 ### How Does It Work 🎶
@@ -16,8 +19,8 @@ The app transforms your phone/tablet/pc screen into a lifelike simulation of a d
 
 ### Why I Made This App 👨‍💻
 ---
-I made this app during my Initial days of learning Web development.
-This simple project helped me to apply my basic frontend knowledge into a working app.
+I made this app during my Initial days of learning Web development. <br/>
+This simple project helped me to apply my basic frontend knowledge into a working app.<br/>
 Also It helped me to overcome my second thoughts of getting into Web Development.
 
 ### Technology Stack
