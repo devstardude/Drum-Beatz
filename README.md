@@ -1,6 +1,8 @@
 # Drum Beatz 🥁
 ---
-![N|Solid](https://i.ibb.co/cQ44VWh/Drum.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/cQ44VWh/Drum.png">
+</p>
 ### Introduction 🙋‍♂️
 ---
 No room in your place for a real drum kit?
