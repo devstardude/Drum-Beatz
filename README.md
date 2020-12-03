@@ -1,8 +1,9 @@
 # Drum Beatz 🥁
 ---
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/cQ44VWh/Drum.png">
+  <img width="460" height="300" src="https://i.ibb.co/p4P5WVL/drum.png">
 </p>
+
 ### Introduction 🙋‍♂️
 ---
 No room in your place for a real drum kit?
