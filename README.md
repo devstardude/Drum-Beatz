@@ -31,7 +31,7 @@ Also It helped me to overcome my second thoughts of getting into Web Development
 - Javascript ES6
 - JQuery
 
-### Links 🔗
+### 🔗 Links 
 ---
 ##### See Portfolio Website at: [Portfolio](https://devdude.web.app/ "Portfolio")
 ##### See Live Running App on:  [Drum Beatz](https://imdude001.github.io/Drum-Beatz/ "Drum Beatz") 
