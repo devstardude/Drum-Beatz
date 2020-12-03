@@ -1,4 +1,29 @@
-# Drum-Beatz
+# Drum Beatz 🥁
+---
+![N|Solid](https://i.ibb.co/p4P5WVL/drum.png)
+### Introduction 🙋‍♂️
+---
+No room in your place for a real drum kit?
+ 'Drum Beatz' lets you try the true drumming experience in any music style! A free, fun, user-friendly app! 
+It is perfect for practicing without bugging the neighbours or taking up too much space.
 
-view the Live Running App on...
-### [Portfolio](https://devdude.web.app/ "Portfolio")
+### How Does It Work 🎶
+---
+The app transforms your phone/tablet/pc screen into a lifelike simulation of a drum kit. Watch as your fingertips magically transform into drumsticks! For instant playback, all you need do is tap on the drum pads.
+
+### Why I Made This App 👨‍💻
+---
+I made this app during my Initial days of learning Web development.
+This simple project helped me to apply my basic frontend knowledge into a working app.
+Also It helped me to overcome my second thoughts of getting into Web Development.
+
+### Technology Stack
+- Html 5
+- CSS 3
+- Javascript ES6
+- JQuery
+
+### Links 🔗
+---
+##### See Live Running App on:  [Drum Beatz](https://imdude001.github.io/Drum-Beatz/ "Drum Beatz") 
+##### See Portfolio Website at: [Portfolio](https://devdude.web.app/ "Portfolio")
