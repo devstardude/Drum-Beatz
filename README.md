@@ -1,5 +1,5 @@
 # 🥁 Drum Beatz 
-<p align="center">
+<p align="left">
   <img width="70%%" src="https://i.ibb.co/p4P5WVL/drum.png">
 </p>
 
